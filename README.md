@@ -10,6 +10,7 @@
 - node.js
 - firebase auth
 - mongodb
+- express.js
 
 ## NB : Clone my project and install npm packege at startup to run it. After that run the npm run dev command on local computer
 
